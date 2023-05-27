@@ -12,6 +12,7 @@ body{
     margin:0;
     font-size:20px;
     line-height:30px;
+    
 }
 
 header{
@@ -19,7 +20,7 @@ header{
     text-align:center;
     padding-top:20px;
     padding-bottom:20px;
-    color:white;
+    color:whitesmoke;
     Font-size:45px;
 
 }
@@ -40,7 +41,7 @@ main img{
 }
 
 a{
-    color:white;
+    color:white
 }
 a:hover{
     color:white;
@@ -54,4 +55,15 @@ footer{
 }
 li{
     text-align: center;
+}
+p,li{
+    font-family:'Castoro titling', bold;
+}
+
+#Golden{
+    background-color:goldenrod;
+    color:black;
+}
+body{
+    background-color: whitesmoke;
 }
