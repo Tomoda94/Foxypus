@@ -1,0 +1,57 @@
+header img{
+    width:350px;
+    border-radius:90px;
+    border:15px solid white;
+
+}
+main img{
+    width:800px;
+}
+
+body{
+    margin:0;
+    font-size:20px;
+    line-height:30px;
+}
+
+header{
+    Background-color:goldenrod;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+    color:white;
+    Font-size:45px;
+
+}
+
+h1,h2{
+    font-family:'Cinzel'
+}
+
+main{
+    max-width:1450px;
+    margin:0 auto;
+    Padding:0 20px;
+    text-align: center;
+
+}
+main img{
+    max-width:100%;
+}
+
+a{
+    color:white;
+}
+a:hover{
+    color:white;
+    background-color:black;
+}
+
+footer{
+    background-color:goldenrod;
+    color:white;
+    padding:20px;
+}
+li{
+    text-align: center;
+}
